@@ -1,0 +1,8 @@
+{
+  "skills": {
+    "languages": ["Java", "JavaScript", "SQL", "HTML5", "CSS3"],
+    "frameworks": ["React", "Node.js", "Express.js", "Spring Boot", "Hibernate", "Ant Design"],
+    "databases": ["MySQL", "MongoDB", "Firebase"],
+    "tools": ["Git", "GitHub", "Docker", "Postman", "Figma"]
+  }
+}
